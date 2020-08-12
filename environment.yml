@@ -1,0 +1,20 @@
+
+name: spotify_prediction_project
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn
+  - jupyter
+  - ipython
+  - python
+  - numpy
+  - pip
+  - future
+  - pandas
+  - ipywidgets
+  - seaborn
+  - voila
