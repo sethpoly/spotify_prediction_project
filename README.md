@@ -10,8 +10,8 @@ Quickstart Instructions:
 2.	As soon as the server is loaded, it will redirect you to a page with a list of project files. Click the very first file titled “Spotify_Predict_the_Hits.ipynb”. The application will execute and you will be able to interact with the modules.
 
 3.	Sometimes the interactable modules are unable to load, to fix this issue: 
-  a.	Click “Kernel” which is located in the toolbar
-  b.	Click “Restart and Run All” from the Kernel dropdown menu
-  c.	Click “Restart and Run All Cells” from the pop-up dialog menu
-  d.	All the cells should execute, and the interactable cells should work now.
+   a.	Click “Kernel” which is located in the toolbar
+   b.	Click “Restart and Run All” from the Kernel dropdown menu
+   c.	Click “Restart and Run All Cells” from the pop-up dialog menu
+   d.	All the cells should execute, and the interactable cells should work now.
 
